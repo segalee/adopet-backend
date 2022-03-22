@@ -13,7 +13,7 @@
     "static/media/B612-Regular.ttf": "static/media/B612-Regular.5888f17759444f4f2632.ttf",
     "static/media/B612-Bold.ttf": "static/media/B612-Bold.29e92b578cc5d5ead96f.ttf",
     "static/media/adopet_svg.svg": "static/media/adopet_svg.d830f3dfd2c5e26d0dae226de3d16bd5.svg",
-    "index.html": "/public/index.html",
+    "index.html": "../public/index.html",
     "main.65ed90c2.css.map": "static/css/main.65ed90c2.css.map",
     "main.2a431ebb.js.map": "static/js/main.2a431ebb.js.map",
     "787.119f8231.chunk.js.map": "static/js/787.119f8231.chunk.js.map"
